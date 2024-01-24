@@ -9,7 +9,7 @@ addSubDomain({
     email: '<mazengoharforsolutions@gmail.com>',
   },
   record: {
-    NS: ['dns1.freehostia.com', 'dns2.freehostia.com']
+    NS: ['dns1.freehostia.com', 'dns2.freehostia.com'],
   },
   //proxy: false, // disable Cloudflare proxy (with is enabled by default). In this case, your origin server
                   // should provide valid a SSL certificate and protection CF will be disabled
